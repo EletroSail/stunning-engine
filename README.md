@@ -17,6 +17,9 @@ Sobre o Software:
 O código foi desenvolvido inteiramente na Arduino IDE, focando na exibição em tempo real com baixa latência. A lógica foi otimizada para garantir que o ESP32-CAM processasse as imagens rapidamente e transmitisse para o display GC9A01 sem interrupções perceptíveis.
 
 Inspiração e Créditos:
+adhd engineer
+@generalpurpose2714
+Link do video inspiração do codigo e dos arquivos stl e processo de montagem https://www.youtube.com/watch?v=Y6qBg2xDD74&t=2s
 A estrutura do óculos foi baseada em um modelo STL encontrado no YouTube, adaptado para acomodar os componentes utilizados. Esse projeto é uma homenagem à criatividade da comunidade maker, que compartilha ideias e inspira inovações.
 
 Se tiver dúvidas ou quiser experimentar o código, compartilho o software e as instruções detalhadas para replicar o projeto! 🚀
